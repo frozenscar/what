@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">what</string>
+
+
+    <string-array name="yearSpinner">
+        <item>select year</item>
+        <item>1-1</item>
+        <item>1-2</item>
+        <item>2-1</item>
+        <item>2-2</item>
+        <item>3-1</item>
+        <item>3-2</item>
+        <item>4-1</item>
+        <item>4-2</item>
+    </string-array>
+
+
+    <string-array name="BranchSpinner">
+        <item>select Branch</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>IT</item>
+        <item>MECH</item>
+        <item>Civil</item>
+    </string-array>
+</resources>
